@@ -6,4 +6,4 @@ Nesse projeto, consegui compreender como funcionam alguns princípios básicos d
  <h2>Link do projeto no Figma:</h2>https://www.figma.com/file/zd2a4QDsUNMMbRs3gIgknA/Origin-Six-(Copy)?node-id=61%3A144
 <h2>Link do repositório no Github:</h2>
 https://github.com/MarhlonKorb/Interface-created-in-html-CSS-JavaScript-
-<h2>Git clone:</h2>https://github.com/MarhlonKorb/Interface-created-in-html-CSS-JavaScript-.git
+<h2>Git clone:</h2>gh repo clone MarhlonKorb/Interface-created-in-html-CSS-JavaScript-
